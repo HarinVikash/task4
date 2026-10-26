@@ -42,3 +42,4 @@ Before running the application, make sure all dependencies are installed.
    `npm run dev` starts both server and client. If you want to start them separately, you can use following commands:
    - `npm run server`: to start server
    - `npm run client`: to start client
+# intenship
